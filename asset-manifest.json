@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/one-frontend/static/css/main.fd9e8cb3.css",
+    "main.css": "/one-frontend/static/css/main.ac597a5e.css",
     "main.js": "/one-frontend/static/js/main.5f9792f4.js",
     "static/media/PingFang SC Regular.eot": "/one-frontend/static/media/PingFang SC Regular.652278e0e2a1fb6c2d05.eot",
     "static/media/PingFang SC Regular.ttf": "/one-frontend/static/media/PingFang SC Regular.e635b3fc30dc63371b2a.ttf",
@@ -51,11 +51,11 @@
     "static/media/Montserrat-Bold.woff": "/one-frontend/static/media/Montserrat-Bold.da680ee38fc1ed80d0b1.woff",
     "static/media/Montserrat-Bold.woff2": "/one-frontend/static/media/Montserrat-Bold.09f942866400bfb67191.woff2",
     "index.html": "/one-frontend/index.html",
-    "main.fd9e8cb3.css.map": "/one-frontend/static/css/main.fd9e8cb3.css.map",
+    "main.ac597a5e.css.map": "/one-frontend/static/css/main.ac597a5e.css.map",
     "main.5f9792f4.js.map": "/one-frontend/static/js/main.5f9792f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd9e8cb3.css",
+    "static/css/main.ac597a5e.css",
     "static/js/main.5f9792f4.js"
   ]
 }
